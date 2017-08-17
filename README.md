@@ -40,7 +40,6 @@ eebUeWSJDlmtz80tT2kDuA 5.0
 H7VLT9-UbaDVKbxfLAMqwg 5.0
 dLJgjRFphvHoQQsC9tEyTQ 5.0 5.0
 Q5.	Modify	Q4 to	find	out	the	10	businesses	that	have	received	the	lowest	average	ratings.	
-*	Hint:	You	just	have	to	output	hashmap	in	reverse	order	and	stop	at	counter	value	of	10	*
 
 For Q1:
 hadoop jar Yelp.jar CountYelpBusiness /yelp/business/business.csv /user/lxm153730/output
